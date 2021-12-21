@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathameshbhujbal
 - 👀 I’m interested in python, java, web-devlopment, ethical hacking
-- 🌱 I’m currently learning python and bascis of networking, 
+- 🌱 I’m currently learning python and basics of networking, 
 - 📫 How to reach me: 
  1. email- bhujbal.prad@gmail.com 
  2. [My_instagram](https://www.instagram.com/prathamesh_bhujbal2002/)
